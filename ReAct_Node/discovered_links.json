@@ -1,0 +1,25 @@
+{
+  "valid_links": [
+    {
+      "title": "India Civic Freedom Monitor - ICNL",
+      "url": "https://www.icnl.org/resources/civic-freedom-monitor/india",
+      "type": "news",
+      "context_summary": "Reports a proposed draft amendment to India's Foreign Contribution (Regulation) Act in March 2026, introducing restrictive provisions including state seizure of non-profit assets, directly relevant to the non-profit regulatory landscape in India.",
+      "publish_date": "3 days ago"
+    },
+    {
+      "title": "Regulatory Changes in India: Latest News & Videos, Photos - Economic Times",
+      "url": "https://economictimes.indiatimes.com/topic/regulatory-changes-in-india",
+      "type": "news",
+      "context_summary": "Covers India's government review of industrial corridor frameworks and NITI Aayog stakeholder consultations on policy and regulatory changes, relevant to the current regulatory affairs environment in India.",
+      "publish_date": "1 day ago"
+    },
+    {
+      "title": "Regulatory Compliance in India: Latest News & Videos, Photos - Economic Times",
+      "url": "https://economictimes.indiatimes.com/topic/regulatory-compliance-in-india",
+      "type": "news",
+      "context_summary": "Highlights industry advocacy for equitable regulatory treatment across broadcast platforms and pending TRAI recommendations, reflecting active regulatory compliance developments in India.",
+      "publish_date": "1 day ago"
+    }
+  ]
+}
